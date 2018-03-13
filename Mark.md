@@ -1,6 +1,6 @@
 # _*Esse Projeto é apenas um Teste*_
 
-##Por favor não considere esse projeto, ele é feito apenas para Testar e aprender a utilizar o GIT e o GITHUB
+## Por favor não considere esse projeto, ele é feito apenas para Testar e aprender a utilizar o GIT e o GITHUB
 
 
 # _*This is just a Test*_
